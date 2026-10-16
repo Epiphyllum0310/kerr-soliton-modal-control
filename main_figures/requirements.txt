@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib>=3.9
+pypdf>=6
+fonttools
+Pillow

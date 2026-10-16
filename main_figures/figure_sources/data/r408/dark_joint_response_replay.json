@@ -1,0 +1,77 @@
+{
+  "reference": {
+    "d1": 1.2036541624667914e-08,
+    "pump_min": 2.175346570032974,
+    "pump_peak": 2.175347906,
+    "reference_residual": 2.332890061066541e-13,
+    "derivative_relative_residual": 2.2390905912441998e-06,
+    "eta": 2.16554235007238e-05,
+    "sigma": 80.0,
+    "T": 160.0,
+    "detuning": 4.0,
+    "d2": 1.0,
+    "N": 1024
+  },
+  "rows": [
+    {
+      "d1": 1.0843783147224952e-08,
+      "increment": -1.192758477442962e-09,
+      "field_change_relative": 0.0049990469072674236,
+      "increment_prediction_relative_error": 0.03232551560271707,
+      "full_field_prediction_relative_error": 0.0001615968271158748,
+      "spectral_abscissa": -3.549866214980499e-08
+    },
+    {
+      "d1": 1.1440162385946432e-08,
+      "increment": -5.963792387214818e-10,
+      "field_change_relative": 0.002499864044742643,
+      "increment_prediction_relative_error": 0.016162986407623287,
+      "full_field_prediction_relative_error": 4.0405276039386516e-05,
+      "spectral_abscissa": -3.5498265948132444e-08
+    },
+    {
+      "d1": 1.2632920863389396e-08,
+      "increment": 5.963792387214818e-10,
+      "field_change_relative": 0.0024999064209126638,
+      "increment_prediction_relative_error": 0.016163083028055625,
+      "full_field_prediction_relative_error": 4.0406187241915724e-05,
+      "spectral_abscissa": -3.549739313676669e-08
+    },
+    {
+      "d1": 1.3229300102110876e-08,
+      "increment": 1.192758477442962e-09,
+      "field_change_relative": 0.0049991830579179065,
+      "increment_prediction_relative_error": 0.03232582553628618,
+      "full_field_prediction_relative_error": 0.00016160265560881076,
+      "spectral_abscissa": -3.549693759654041e-08
+    },
+    {
+      "d1": 1.442205857955384e-08,
+      "increment": 2.3855169548859256e-09,
+      "field_change_relative": 0.009993278572171561,
+      "increment_prediction_relative_error": 0.06464881283950603,
+      "full_field_prediction_relative_error": 0.0006460530653379626,
+      "spectral_abscissa": -3.5496046618786146e-08
+    },
+    {
+      "d1": 9.651024669781988e-09,
+      "increment": -2.3855169548859256e-09,
+      "field_change_relative": 0.00999277447809466,
+      "increment_prediction_relative_error": 0.06464766035249528,
+      "full_field_prediction_relative_error": 0.0006460099343375886,
+      "spectral_abscissa": -3.549943040127118e-08
+    }
+  ],
+  "source_checksums": {
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.203654162467em08.npz": "19ced53e018458bdd447f1c5e30993cae8b4a690648126859d3d20dcf14c6be6",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.084378314722em08.npz": "58e3cedfe5ff3131e7264e697f80783e7301c3d79913e83dda7f341809d6c475",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.144016238595em08.npz": "b9870167fd8dc78b4d3c6267e5d39002ce9040ed57bcb416981710c310201e1b",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.263292086339em08.npz": "dc21888e5743b7ae0ea1276e0f54ff63be61ca71c419dc3da80557691523646c",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.322930010211em08.npz": "7266ee16e2ab2f6338a0e1ef892aa72cefdef26e676021efdab01c853206970f",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_1.442205857955em08.npz": "6a5b68bfb9dd235ce6b8ba403937f0befeb0ba23e57873687c806d93281b0207",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\desynchronization\\checkpoint28\\cand2_state_9.651024669782em09.npz": "5a27e6f7bbcdd5a4fc738eca3806abb87dcba523097ccdca1042806434e5441e"
+  },
+  "new_nonlinear_stationary_solves": 0,
+  "validation": "Replay against stored independent full-LLE stationary arrays. Linear derivative coefficients use the reference alone.",
+  "scope": "Fixed nonuniform periodic pump, nonzero d1 reference; six local d1 increments. Grid-local numerical validation, not a drift critical threshold, global stability domain or rigorous error bound."
+}

@@ -1,0 +1,523 @@
+{
+  "figure": "fig2_branch_mechanisms",
+  "width_mm": 180,
+  "axes": [
+    {
+      "bounds": [
+        0.08,
+        0.772,
+        0.35,
+        0.15100000000000002
+      ],
+      "xlim": [
+        0.0,
+        2.0
+      ],
+      "ylim": [
+        -0.75,
+        0.75
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$q_{\\mathrm{B}}$",
+      "lines": [
+        {
+          "key": "axis0_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line1",
+          "label": "_child1",
+          "color": "#2F5AA8",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line2",
+          "label": "_child2",
+          "color": "#E46E4E",
+          "linestyle": "--",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.668,
+        0.35,
+        0.06700000000000006
+      ],
+      "xlim": [
+        -2.5,
+        2.5
+      ],
+      "ylim": [
+        -1.5465617510845129,
+        1.6996538434600446
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Offset $\\mu_0$ ($10^{-4}$)",
+      "ylabel": "$\\lambda/10^{-7}$",
+      "lines": [
+        {
+          "key": "axis1_line0",
+          "label": "_child0",
+          "color": "#2F5AA8",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis1_line1",
+          "label": "_child1",
+          "color": "#4E627A",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis1_line2",
+          "label": "_child2",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.55,
+        0.817,
+        0.4,
+        0.10499999999999998
+      ],
+      "xlim": [
+        -1.25,
+        1.25
+      ],
+      "ylim": [
+        -0.6179694718188283,
+        13.205877524568377
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_{\\mathrm{s}}|^2$",
+      "lines": [
+        {
+          "key": "axis2_line0",
+          "label": "_child0",
+          "color": "#2F5AA8",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis2_line1",
+          "label": "_child1",
+          "color": "#E46E4E",
+          "linestyle": "--",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.55,
+        0.668,
+        0.4,
+        0.09699999999999998
+      ],
+      "xlim": [
+        -1.25,
+        1.25
+      ],
+      "ylim": [
+        -3.523429857834255,
+        3.523429857834255
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$(I-I^{\\mathrm{ref}})/2$",
+      "lines": [
+        {
+          "key": "axis3_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis3_line1",
+          "label": "_child3",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.402,
+        0.37,
+        0.16500000000000004
+      ],
+      "xlim": [
+        0.0001,
+        1.0
+      ],
+      "ylim": [
+        -0.6331647139245833,
+        1.9237664104478691
+      ],
+      "xscale": "log",
+      "yscale": "linear",
+      "xlabel": "Pump deformation $\\eta$",
+      "ylabel": "$(S_{0,\\mathrm{f}}-S_{\\mathrm{M}})/10^{-3}$",
+      "lines": [
+        {
+          "key": "axis4_line0",
+          "label": "Family 17",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis4_line1",
+          "label": "Family 29",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis4_line2",
+          "label": "Fixed peak drive",
+          "color": "#4E627A",
+          "linestyle": "--",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.084,
+        0.235,
+        0.182
+      ],
+      "xlim": [
+        0.0,
+        2.5
+      ],
+      "ylim": [
+        -6.8328175265808255,
+        7.937980796812738
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "$\\eta/10^{-3}$",
+      "ylabel": "$(S_{0,\\mathrm{f}}-S_{\\mathrm{M}})/10^{-6}$",
+      "lines": [
+        {
+          "key": "axis5_line0",
+          "label": "_child0",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line1",
+          "label": "_child1",
+          "color": "#4E627A",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line2",
+          "label": "_child2",
+          "color": "#E46E4E",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.405,
+        0.226,
+        0.22999999999999998,
+        0.04600000000000001
+      ],
+      "xlim": [
+        -20.0,
+        20.0
+      ],
+      "ylim": [
+        -0.21494819656326342,
+        4.513912127828531
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_{\\mathrm{s}}|^2$",
+      "lines": [
+        {
+          "key": "axis6_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.405,
+        0.084,
+        0.22999999999999998,
+        0.108
+      ],
+      "xlim": [
+        -20.0,
+        20.0
+      ],
+      "ylim": [
+        -1.12,
+        1.12
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\delta I/\\max|\\delta I|$",
+      "lines": [
+        {
+          "key": "axis7_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis7_line1",
+          "label": "_child3",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.725,
+        0.226,
+        0.22999999999999998,
+        0.04600000000000001
+      ],
+      "xlim": [
+        -80.0,
+        80.0
+      ],
+      "ylim": [
+        -0.21482187445816192,
+        4.5112593636214
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_{\\mathrm{s}}|^2$",
+      "lines": [
+        {
+          "key": "axis8_line0",
+          "label": "_child0",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.725,
+        0.084,
+        0.22999999999999998,
+        0.108
+      ],
+      "xlim": [
+        -80.0,
+        80.0
+      ],
+      "ylim": [
+        -1.12,
+        1.12
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\delta I/\\max|\\delta I|$",
+      "lines": [
+        {
+          "key": "axis9_line0",
+          "label": "_child0",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis9_line1",
+          "label": "_child3",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.58,
+        0.402,
+        0.14500000000000002,
+        0.16500000000000004
+      ],
+      "xlim": [
+        -35.0,
+        35.0
+      ],
+      "ylim": [
+        0.0001,
+        1.0
+      ],
+      "xscale": "linear",
+      "yscale": "log",
+      "xlabel": "$\\tau$",
+      "ylabel": "$\\eta$",
+      "lines": [],
+      "collections": [
+        {
+          "key": "axis10_collection0",
+          "type": "QuadMesh",
+          "cmap": "field405",
+          "norm": "Normalize",
+          "vmin": 0.07478859860317628,
+          "vmax": 4.3115075003761625
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.735,
+        0.402,
+        0.006000000000000005,
+        0.16500000000000004
+      ],
+      "xlim": [
+        0.0,
+        1.0
+      ],
+      "ylim": [
+        0.07478859860317628,
+        4.3115075003761625
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "",
+      "lines": [],
+      "collections": [
+        {
+          "key": "axis11_collection0",
+          "type": "segments"
+        },
+        {
+          "key": "axis11_collection1",
+          "type": "QuadMesh",
+          "cmap": "field405",
+          "norm": "Normalize",
+          "vmin": 0.07478859860317628,
+          "vmax": 4.3115075003761625
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.79,
+        0.402,
+        0.14500000000000002,
+        0.16500000000000004
+      ],
+      "xlim": [
+        -35.0,
+        35.0
+      ],
+      "ylim": [
+        0.0001,
+        1.0
+      ],
+      "xscale": "linear",
+      "yscale": "log",
+      "xlabel": "$\\tau$",
+      "ylabel": "",
+      "lines": [],
+      "collections": [
+        {
+          "key": "axis12_collection0",
+          "type": "QuadMesh",
+          "cmap": "signed405",
+          "norm": "Normalize",
+          "vmin": -0.061851806258602204,
+          "vmax": 0.061851806258602204
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.9450000000000001,
+        0.402,
+        0.006000000000000005,
+        0.16500000000000004
+      ],
+      "xlim": [
+        0.0,
+        1.0
+      ],
+      "ylim": [
+        -0.061851806258602204,
+        0.061851806258602204
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "",
+      "lines": [],
+      "collections": [
+        {
+          "key": "axis13_collection0",
+          "type": "segments"
+        },
+        {
+          "key": "axis13_collection1",
+          "type": "QuadMesh",
+          "cmap": "signed405",
+          "norm": "Normalize",
+          "vmin": -0.061851806258602204,
+          "vmax": 0.061851806258602204
+        }
+      ]
+    }
+  ],
+  "note": "Normalized plotting arrays; physical source objects and reconstruction scripts accompany the release."
+}

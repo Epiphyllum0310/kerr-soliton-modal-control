@@ -1,0 +1,42 @@
+{
+  "reference_parameters": {
+    "T": 80,
+    "N": 1024,
+    "detuning": 4,
+    "d2": -1,
+    "pump_peak": 2.3,
+    "d1": 0
+  },
+  "rows": [
+    {
+      "sigma": 5.0,
+      "prediction": 0.010598340463777299,
+      "LLE": 0.010426254332022045,
+      "absolute_relative_error": 0.016505077113525557,
+      "translation_overlap": 0.9985603921210636
+    },
+    {
+      "sigma": 10.0,
+      "prediction": 0.0026447433140725034,
+      "LLE": 0.0026364300624132538,
+      "absolute_relative_error": 0.003153222904627384,
+      "translation_overlap": 0.9992731806585886
+    },
+    {
+      "sigma": 20.0,
+      "prediction": 0.0006537133994595852,
+      "LLE": 0.0006532605887354906,
+      "absolute_relative_error": 0.0006931548173922941,
+      "translation_overlap": 0.9997167239409467
+    }
+  ],
+  "source_checksums": {
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\raw\\bright_dks\\cw_dks_delta4_s2p3_n1024_w80.npz": "a4e5052a10ba788cf354034d5e877a08d994530f44f6477e41ce1d892f7b6d58",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\bright_cw_dks_adjoint_n1024_T80.npz": "6e6e2347817bb0f2c722f3d5baef235537587a0f0393da7645ba4a84b885ea22",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\bright_centered_adjoint_curvature_prediction_n1024_T80.npz": "e036315a45dd74db7e836eeee7a4903eed6a8bf607fc3b28c32c6cbf89cae58f",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\bright_dks_periodic_centered_spectrum_sigma5_n1024_T80.npz": "a9d87434a62c77d53d798003812728ce5cd6e185abad3bee918118ebcfb87c95",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\bright_dks_periodic_centered_spectrum_sigma10_n1024_T80.npz": "3b6c6bae02abad436d1f3fac41ab49d879887ca68b75127b59734546bf58dfaf",
+    "D:\\BaiduNetdiskDownload\\嵌入式\\CF2_FULL_HANDOFF_20261007\\CF2_Paper_Closure_2026-10-04\\work\\project\\data\\derived\\bright_dks_periodic_spectrum_eta1_sigma20_n1024_T80.npz": "521d9dfd61b2003761a725493c040a452eceea978cc0b796996f01cca18aea1a"
+  },
+  "scope": "Centered Bright branch; all tested rates positive. CW solvability estimate evaluated at full periodic pump eta=1; empirical validation at these three cases only."
+}

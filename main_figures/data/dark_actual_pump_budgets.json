@@ -1,0 +1,82 @@
+[
+  {
+    "N": 1024,
+    "index": 0,
+    "relative_L2": 0.00011216382974762505,
+    "relative_mean_power": -4.440892098500626e-16,
+    "peak_phase_change_rad": 0.0007999150951817315,
+    "relative_rms_bandwidth": 0.0003383789267823456
+  },
+  {
+    "N": 1024,
+    "index": 1,
+    "relative_L2": 5.6081915072247564e-05,
+    "relative_mean_power": -4.440892098500626e-16,
+    "peak_phase_change_rad": 0.0004000926571719884,
+    "relative_rms_bandwidth": 8.24065961262388e-05
+  },
+  {
+    "N": 1024,
+    "index": 2,
+    "relative_L2": 0.0,
+    "relative_mean_power": 0.0,
+    "peak_phase_change_rad": 2.3579332327000339e-32,
+    "relative_rms_bandwidth": 0.0
+  },
+  {
+    "N": 1024,
+    "index": 3,
+    "relative_L2": 5.6081915072249115e-05,
+    "relative_mean_power": 0.0,
+    "peak_phase_change_rad": 0.0004003630221485371,
+    "relative_rms_bandwidth": 9.120204656842823e-05
+  },
+  {
+    "N": 1024,
+    "index": 4,
+    "relative_L2": 0.00011216382974762643,
+    "relative_mean_power": 0.0,
+    "peak_phase_change_rad": 0.0008009965549383674,
+    "relative_rms_bandwidth": 0.00035596524898662274
+  },
+  {
+    "N": 2048,
+    "index": 0,
+    "relative_L2": 0.00011216382974762563,
+    "relative_mean_power": -4.440892098500626e-16,
+    "peak_phase_change_rad": 0.0008045044168142485,
+    "relative_rms_bandwidth": 0.0003383789267823456
+  },
+  {
+    "N": 2048,
+    "index": 1,
+    "relative_L2": 5.6081915072249664e-05,
+    "relative_mean_power": 0.0,
+    "peak_phase_change_rad": 0.00040238920280158603,
+    "relative_rms_bandwidth": 8.24065961262388e-05
+  },
+  {
+    "N": 2048,
+    "index": 2,
+    "relative_L2": 0.0,
+    "relative_mean_power": 0.0,
+    "peak_phase_change_rad": 2.3579332327000333e-32,
+    "relative_rms_bandwidth": 0.0
+  },
+  {
+    "N": 2048,
+    "index": 3,
+    "relative_L2": 5.608191507224837e-05,
+    "relative_mean_power": -4.440892098500626e-16,
+    "peak_phase_change_rad": 0.00040266334127648487,
+    "relative_rms_bandwidth": 9.120204656842823e-05
+  },
+  {
+    "N": 2048,
+    "index": 4,
+    "relative_L2": 0.00011216382974762619,
+    "relative_mean_power": -4.440892098500626e-16,
+    "peak_phase_change_rad": 0.0008056009705622828,
+    "relative_rms_bandwidth": 0.0003559652489864007
+  }
+]

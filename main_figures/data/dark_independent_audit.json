@@ -1,0 +1,50 @@
+{
+  "grid_max_relative_delta_error": 1.0752937099622374e-09,
+  "time_max_relative_delta_error": {
+    "1024": 2.223696250279829e-09,
+    "2048": 2.223701553990046e-09
+  },
+  "exact_same_initial_across_drives": true,
+  "phase_-1": {
+    "predicted_x": -7.665054772149475e-05,
+    "actual_x": -7.665054776051322e-05,
+    "error_percent": 5.090436960841771e-08,
+    "pointwise_pump_intensity_change": 7.105427357601002e-15
+  },
+  "phase_1": {
+    "predicted_x": 7.665054772149475e-05,
+    "actual_x": 7.665054767063606e-05,
+    "error_percent": 6.635136884369786e-08,
+    "pointwise_pump_intensity_change": 7.105427357601002e-15
+  },
+  "independent_gradient_identity_relative_error": 6.03569675963982e-14,
+  "budget_whitened_singular_values": [
+    1008.8788011394576,
+    5.144641584046407,
+    0.6833802620001721
+  ],
+  "max_static_rate_increment_error_percent": 0.019024779019205518,
+  "all_targets_full_spectrum_stable": true,
+  "max_relative_pump_power_change": 4.440892098500626e-16,
+  "finest_control_rate_improvement_percent": [
+    [
+      4.0018763703489,
+      4.000309776018218
+    ],
+    [
+      8.004238422945932,
+      8.001166453127562
+    ]
+  ],
+  "finest_time_reduction_percent": [
+    [
+      3.8478886247189314,
+      3.846440250643046
+    ],
+    [
+      7.411041029335563,
+      7.408407442154852
+    ]
+  ],
+  "source_author_zip_sha256": "f42dee045e6eab6ca53d5892d49584b382374408691fd4300d9176a8cc90c2bf"
+}

@@ -1,0 +1,39 @@
+{
+  "first_input_cosine_normalized_overlap": -0.999988365765336,
+  "actual_direction_source": "R223_INTRINSIC_RANK_DIRECTIONS.npz:direction0",
+  "actual_recipe": "R220 selected pump minus baseline pump; power-tangent projection; norm scaling",
+  "frozen_author_recipe": "positive S0*cos(4*pi*tau/T), followed by projection and normalization",
+  "relative_difference_after_sign_reversal": 0.00482374018026655,
+  "R223_INTRINSIC_RANK_RESULTS.json": {
+    "predicted_singular_values": [
+      1528880.227222724,
+      0.09963005817435044
+    ]
+  },
+  "R223_PHASE_RANK_V2_RESULTS.json": {
+    "predicted_singular_values": [
+      1532794.4331000242,
+      12732.05715517226
+    ]
+  },
+  "final_independent_response_matrix": [
+    [
+      -0.09960006558450485,
+      0.02177005938372754,
+      12764.653625460227
+    ],
+    [
+      -2116.7734327904714,
+      -1528878.7618584547,
+      109467.79077543774
+    ]
+  ],
+  "final_independent_response_singular_values": [
+    1532794.4341851932,
+    12732.05882581573
+  ],
+  "note": "Historical V2 failed phase solves are preserved in the archive. Final manuscript uses the repaired V3 states and the independent audit V2 prediction.",
+  "sigma2": 12732.064984438484,
+  "full_empirical_discrepancy": 2.632469917276008,
+  "intrinsic_rank_pass": true
+}

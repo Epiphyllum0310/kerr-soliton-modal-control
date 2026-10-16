@@ -1,0 +1,619 @@
+{
+  "figure": "fig3_static_predictions",
+  "width_mm": 180,
+  "axes": [
+    {
+      "bounds": [
+        0.08,
+        0.724,
+        0.235,
+        0.19700000000000006
+      ],
+      "xlim": [
+        0.0,
+        6.0
+      ],
+      "ylim": [
+        0.0,
+        2.9
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|d_{1,\\mathrm{SN}}|/10^{-8}$",
+      "lines": [
+        {
+          "key": "axis0_line0",
+          "label": "_child1",
+          "color": "#2F5AA8",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line1",
+          "label": "_child2",
+          "color": "(0.12156862745098039, 0.4666666666666667, 0.7058823529411765)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis0_line2",
+          "label": "_child3",
+          "color": "(1.0, 0.4980392156862745, 0.054901960784313725)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis0_line3",
+          "label": "_child4",
+          "color": "(0.17254901960784313, 0.6274509803921569, 0.17254901960784313)",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis0_line4",
+          "label": "_child5",
+          "color": "(0.8392156862745098, 0.15294117647058825, 0.1568627450980392)",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.635,
+        0.235,
+        0.04700000000000004
+      ],
+      "xlim": [
+        0.0,
+        6.0
+      ],
+      "ylim": [
+        0.0,
+        0.118
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Offset $\\mu_0$ ($10^{-4}$)",
+      "ylabel": "Error (%)",
+      "lines": [
+        {
+          "key": "axis1_line0",
+          "label": "_child0",
+          "color": "(0.12156862745098039, 0.4666666666666667, 0.7058823529411765)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis1_line1",
+          "label": "_child1",
+          "color": "(1.0, 0.4980392156862745, 0.054901960784313725)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis1_line2",
+          "label": "_child2",
+          "color": "(0.17254901960784313, 0.6274509803921569, 0.17254901960784313)",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis1_line3",
+          "label": "_child3",
+          "color": "(0.8392156862745098, 0.15294117647058825, 0.1568627450980392)",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis1_line4",
+          "label": "_child4",
+          "color": "#4E627A",
+          "linestyle": "--",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.56,
+        0.848,
+        0.38,
+        0.06900000000000006
+      ],
+      "xlim": [
+        -25.0,
+        25.0
+      ],
+      "ylim": [
+        -0.21560516443954297,
+        4.527708453230402
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_{\\mathrm{CW}}|^2$",
+      "lines": [
+        {
+          "key": "axis2_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis2_line1",
+          "label": "_child2",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        },
+        {
+          "key": "axis2_line2",
+          "label": "_child3",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.56,
+        0.749,
+        0.38,
+        0.05800000000000005
+      ],
+      "xlim": [
+        -25.0,
+        25.0
+      ],
+      "ylim": [
+        0.0,
+        7.5623230522906315
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$(1-g)/10^{-3}$",
+      "lines": [
+        {
+          "key": "axis3_line0",
+          "label": "_child0",
+          "color": "#C58B2B",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis3_line1",
+          "label": "_child1",
+          "color": "#E46E4E",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis3_line2",
+          "label": "_child2",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        },
+        {
+          "key": "axis3_line3",
+          "label": "_child3",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.56,
+        0.635,
+        0.38,
+        0.06899999999999995
+      ],
+      "xlim": [
+        -25.0,
+        25.0
+      ],
+      "ylim": [
+        -0.023721732237832045,
+        0.1355323090374962
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$K_W(1-g)/10^{-3}$",
+      "lines": [
+        {
+          "key": "axis4_line0",
+          "label": "_child0",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis4_line1",
+          "label": "_child3",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis4_line2",
+          "label": "_child4",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        },
+        {
+          "key": "axis4_line3",
+          "label": "_child5",
+          "color": "#4E627A",
+          "linestyle": ":",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.205,
+        0.4,
+        0.28700000000000003
+      ],
+      "xlim": [
+        13.0,
+        35.0
+      ],
+      "ylim": [
+        8e-05,
+        1.4
+      ],
+      "xscale": "linear",
+      "yscale": "log",
+      "xlabel": "",
+      "ylabel": "Width-fold threshold $\\eta_{\\mathrm{f}}$",
+      "lines": [
+        {
+          "key": "axis5_line0",
+          "label": "_child0",
+          "color": "#C58B2B",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line1",
+          "label": "_child1",
+          "color": "#0E9F8A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line2",
+          "label": "_child2",
+          "color": "(0.12156862745098039, 0.4666666666666667, 0.7058823529411765)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis5_line3",
+          "label": "_child3",
+          "color": "#C58B2B",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line4",
+          "label": "_child4",
+          "color": "#0E9F8A",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis5_line5",
+          "label": "_child5",
+          "color": "(1.0, 0.4980392156862745, 0.054901960784313725)",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.08,
+        0.079,
+        0.4,
+        0.08
+      ],
+      "xlim": [
+        13.0,
+        35.0
+      ],
+      "ylim": [
+        -7.0,
+        45.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "CW front separation $W_{\\mathrm{D}}$",
+      "ylabel": "Error (%)",
+      "lines": [
+        {
+          "key": "axis6_line0",
+          "label": "_child0",
+          "color": "(0.12156862745098039, 0.4666666666666667, 0.7058823529411765)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis6_line1",
+          "label": "_child1",
+          "color": "(1.0, 0.4980392156862745, 0.054901960784313725)",
+          "linestyle": "None",
+          "marker": "o"
+        },
+        {
+          "key": "axis6_line2",
+          "label": "_child2",
+          "color": "(0.17254901960784313, 0.6274509803921569, 0.17254901960784313)",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis6_line3",
+          "label": "_child3",
+          "color": "(0.8392156862745098, 0.15294117647058825, 0.1568627450980392)",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis6_line4",
+          "label": "_child4",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.62,
+        0.428,
+        0.31999999999999995,
+        0.064
+      ],
+      "xlim": [
+        -18.0,
+        18.0
+      ],
+      "ylim": [
+        -1.2,
+        1.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\delta I_Q$",
+      "lines": [
+        {
+          "key": "axis7_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis7_line1",
+          "label": "_child2",
+          "color": "#E46E4E",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis7_line2",
+          "label": "_child4",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.62,
+        0.194,
+        0.21299999999999997,
+        0.14799999999999996
+      ],
+      "xlim": [
+        0.0002,
+        0.12
+      ],
+      "ylim": [
+        2e-07,
+        0.0002
+      ],
+      "xscale": "log",
+      "yscale": "log",
+      "xlabel": "",
+      "ylabel": "Growth increment $\\Delta\\lambda_Q$",
+      "lines": [
+        {
+          "key": "axis8_line0",
+          "label": "CW family 0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis8_line1",
+          "label": "_child1",
+          "color": "#4E627A",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis8_line2",
+          "label": "CW family 4",
+          "color": "#E46E4E",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis8_line3",
+          "label": "_child3",
+          "color": "#E46E4E",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.855,
+        0.194,
+        0.12,
+        0.14799999999999996
+      ],
+      "xlim": [
+        0.0,
+        1.0
+      ],
+      "ylim": [
+        0.0,
+        1.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "",
+      "lines": [
+        {
+          "key": "axis9_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis9_line1",
+          "label": "_child2",
+          "color": "#E46E4E",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis9_line2",
+          "label": "_child4",
+          "color": "#4E627A",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis9_line3",
+          "label": "_child6",
+          "color": "#4E627A",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.62,
+        0.079,
+        0.21299999999999997,
+        0.047
+      ],
+      "xlim": [
+        0.0002,
+        0.12
+      ],
+      "ylim": [
+        -4.0,
+        1.0
+      ],
+      "xscale": "log",
+      "yscale": "linear",
+      "xlabel": "Pump deformation $\\eta$",
+      "ylabel": "Error (%)",
+      "lines": [
+        {
+          "key": "axis10_line0",
+          "label": "_child0",
+          "color": "#4E627A",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis10_line1",
+          "label": "_child1",
+          "color": "#E46E4E",
+          "linestyle": "None",
+          "marker": "|"
+        },
+        {
+          "key": "axis10_line2",
+          "label": "_child2",
+          "color": "#BECAD3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.392,
+        0.724,
+        0.09499999999999997,
+        0.17000000000000004
+      ],
+      "xlim": [
+        -1.3,
+        1.3
+      ],
+      "ylim": [
+        -2.2,
+        2.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "$d_1/d_f$",
+      "ylabel": "$q_B/q_f$",
+      "lines": [
+        {
+          "key": "axis11_line0",
+          "label": "_child0",
+          "color": "#315FA7",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis11_line1",
+          "label": "_child1",
+          "color": "#D97158",
+          "linestyle": "None",
+          "marker": "|"
+        }
+      ],
+      "collections": []
+    }
+  ],
+  "note": "Normalized plotting arrays; physical source objects and reconstruction scripts accompany the release."
+}

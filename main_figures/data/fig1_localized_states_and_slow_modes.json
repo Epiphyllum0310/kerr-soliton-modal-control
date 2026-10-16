@@ -1,0 +1,521 @@
+{
+  "figure": "fig1_localized_states_and_slow_modes",
+  "width_mm": 180,
+  "axes": [
+    {
+      "bounds": [
+        0.045,
+        0.53,
+        0.255,
+        0.38
+      ],
+      "xlim": [
+        0.0,
+        1.0
+      ],
+      "ylim": [
+        0.0,
+        1.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "",
+      "lines": [
+        {
+          "key": "axis0_line0",
+          "label": "_child4",
+          "color": "#D5E1EC",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line1",
+          "label": "_child5",
+          "color": "#516C86",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line2",
+          "label": "_child13",
+          "color": "#927BA3",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis0_line3",
+          "label": "_child14",
+          "color": "#315FA7",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.385,
+        0.827,
+        0.21999999999999997,
+        0.07699999999999996
+      ],
+      "xlim": [
+        -0.5,
+        0.5
+      ],
+      "ylim": [
+        0.0,
+        2.6
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "$\\tau/T$",
+      "ylabel": "$|S|$",
+      "lines": [
+        {
+          "key": "axis1_line0",
+          "label": "_child0",
+          "color": "#927BA3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.385,
+        0.628,
+        0.21999999999999997,
+        0.11699999999999999
+      ],
+      "xlim": [
+        -2.0,
+        2.0
+      ],
+      "ylim": [
+        0.0,
+        13.5
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_s|^2$",
+      "lines": [
+        {
+          "key": "axis2_line0",
+          "label": "_child0",
+          "color": "#315FA7",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.385,
+        0.522,
+        0.21999999999999997,
+        0.07099999999999995
+      ],
+      "xlim": [
+        -2.0,
+        2.0
+      ],
+      "ylim": [
+        -1.489803656743055,
+        0.34883360697945986
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\arg\\psi_s$",
+      "lines": [
+        {
+          "key": "axis3_line0",
+          "label": "_child0",
+          "color": "#C28B32",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis3_line1",
+          "label": "_child1",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.385,
+        0.338,
+        0.21999999999999997,
+        0.10599999999999998
+      ],
+      "xlim": [
+        -80.0,
+        80.0
+      ],
+      "ylim": [
+        -65.0,
+        2.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Mode number $m$",
+      "ylabel": "dB",
+      "lines": [
+        {
+          "key": "axis4_line0",
+          "label": "_child0",
+          "color": "#315FA7",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": [
+        {
+          "key": "axis4_collection0",
+          "type": "segments"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.735,
+        0.827,
+        0.21999999999999997,
+        0.07699999999999996
+      ],
+      "xlim": [
+        -0.5,
+        0.5
+      ],
+      "ylim": [
+        0.0,
+        4.5
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "$\\tau/T$",
+      "ylabel": "$|S|$",
+      "lines": [
+        {
+          "key": "axis5_line0",
+          "label": "_child0",
+          "color": "#927BA3",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.735,
+        0.628,
+        0.21999999999999997,
+        0.11699999999999999
+      ],
+      "xlim": [
+        -25.0,
+        25.0
+      ],
+      "ylim": [
+        0.0,
+        6.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "",
+      "ylabel": "$|\\psi_s|^2$",
+      "lines": [
+        {
+          "key": "axis6_line0",
+          "label": "_child0",
+          "color": "#148F87",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.735,
+        0.522,
+        0.21999999999999997,
+        0.07099999999999995
+      ],
+      "xlim": [
+        -25.0,
+        25.0
+      ],
+      "ylim": [
+        -2.372118832166605,
+        1.109000089437476
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\arg\\psi_s$",
+      "lines": [
+        {
+          "key": "axis7_line0",
+          "label": "_child0",
+          "color": "#C28B32",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis7_line1",
+          "label": "_child1",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.735,
+        0.338,
+        0.21999999999999997,
+        0.10599999999999998
+      ],
+      "xlim": [
+        -80.0,
+        80.0
+      ],
+      "ylim": [
+        -65.0,
+        2.0
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Mode number $m$",
+      "ylabel": "dB",
+      "lines": [
+        {
+          "key": "axis8_line0",
+          "label": "_child0",
+          "color": "#148F87",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": [
+        {
+          "key": "axis8_collection0",
+          "type": "segments"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.07,
+        0.338,
+        0.22000000000000003,
+        0.10000000000000003
+      ],
+      "xlim": [
+        -0.49996755033616813,
+        3.601813335790686
+      ],
+      "ylim": [
+        -1.3550446477795672,
+        2.045973042618216
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "$\\operatorname{Re}\\psi_s$",
+      "ylabel": "$\\operatorname{Im}\\psi_s$",
+      "lines": [
+        {
+          "key": "axis9_line0",
+          "label": "Bright",
+          "color": "#315FA7",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis9_line1",
+          "label": "Dark",
+          "color": "#148F87",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.07,
+        0.085,
+        0.19,
+        0.125
+      ],
+      "xlim": [
+        -2.0,
+        2.0
+      ],
+      "ylim": [
+        -1.2,
+        1.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "Mode / max",
+      "lines": [
+        {
+          "key": "axis10_line0",
+          "label": "_child0",
+          "color": "#516C86",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis10_line1",
+          "label": "_child1",
+          "color": "#516C86",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis10_line2",
+          "label": "_child3",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.315,
+        0.085,
+        0.19,
+        0.125
+      ],
+      "xlim": [
+        -2.0,
+        2.0
+      ],
+      "ylim": [
+        -1.2,
+        1.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "",
+      "lines": [
+        {
+          "key": "axis11_line0",
+          "label": "_child0",
+          "color": "#C28B32",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis11_line1",
+          "label": "_child1",
+          "color": "#C28B32",
+          "linestyle": "--",
+          "marker": "None"
+        },
+        {
+          "key": "axis11_line2",
+          "label": "_child3",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.585,
+        0.085,
+        0.16000000000000003,
+        0.125
+      ],
+      "xlim": [
+        -23.0,
+        23.0
+      ],
+      "ylim": [
+        -1.2,
+        1.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "$\\delta I$/max",
+      "lines": [
+        {
+          "key": "axis12_line0",
+          "label": "_child2",
+          "color": "#516C86",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis12_line1",
+          "label": "_child5",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    },
+    {
+      "bounds": [
+        0.805,
+        0.085,
+        0.16000000000000003,
+        0.125
+      ],
+      "xlim": [
+        -23.0,
+        23.0
+      ],
+      "ylim": [
+        -1.2,
+        1.2
+      ],
+      "xscale": "linear",
+      "yscale": "linear",
+      "xlabel": "Fast time $\\tau$",
+      "ylabel": "",
+      "lines": [
+        {
+          "key": "axis13_line0",
+          "label": "_child2",
+          "color": "#C28B32",
+          "linestyle": "-",
+          "marker": "None"
+        },
+        {
+          "key": "axis13_line1",
+          "label": "_child5",
+          "color": "#B9C6D0",
+          "linestyle": "-",
+          "marker": "None"
+        }
+      ],
+      "collections": []
+    }
+  ],
+  "note": "Normalized plotting arrays; physical source objects and reconstruction scripts accompany the release."
+}
